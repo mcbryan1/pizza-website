@@ -1,0 +1,61 @@
+.navbar-home{
+    background-color: #a94442;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border: none;
+}
+.navbar-home .navbar-nav >li >a{
+    color: #fff;
+}
+.navbar-home .navbar-brand {
+    color: #fff;
+}
+.carousel-content {
+    height: 550px;
+}
+.carousel-content img:hover{
+    cursor: pointer;
+    filter: grayscale(1);
+    transition: 1s;
+}
+.about-pizza{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.about-pizza h2{
+    font-weight: bolder;
+}
+.about-cnt{
+    margin-top: 3rem
+}
+.pizza-types{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.pizza-types h2{
+    font-weight: bolder;
+}
+.pizza-types h3{
+    font-weight: bold;
+}
+.footer{
+    background-color: #a94442;
+    padding: 1rem 0; 
+    color: #fff
+}
+.form{
+    margin-top: 3rem;
+}
+/*-------- Others ------*/
+.about-pizza img{
+    border-radius: 10px;
+    filter: grayscale(1);
+}
+.about-pizza img:hover{
+    cursor: pointer;
+    filter: grayscale(0);
+    transition: 1s;
+}
+.payment img{
+    margin-top: 3rem;
+}
